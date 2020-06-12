@@ -1,4 +1,4 @@
-# TypeScript with Jest minimal template
+# TypeScript with Jest. Minimal template
 
 You can use it to build a new project.
 
